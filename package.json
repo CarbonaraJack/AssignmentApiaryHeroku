@@ -1,0 +1,23 @@
+{
+  "name": "assignment_api_heroku",
+  "version": "1.0.0",
+  "description": "Assignment di test per Apiary ed Heroku",
+  "main": "assignment.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarbonaraJack/AssignmentApiaryHeroku.git"
+  },
+  "author": "Marcello Gecchele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarbonaraJack/AssignmentApiaryHeroku/issues"
+  },
+  "homepage": "https://github.com/CarbonaraJack/AssignmentApiaryHeroku#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
