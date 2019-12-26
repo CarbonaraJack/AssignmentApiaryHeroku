@@ -1,6 +1,8 @@
 # AssignmentApiaryHeroku
+## Assignment for the 2017/18 Software Engingeering 2 class @ UniTN
+
 Repositori di test di Apiary ed Heroku assieme
-L'idea è DI creare una api che gestisce degli Assignment.
+L'idea è di creare una api che gestisce degli Assignment.
 Ogni Assignment ha:
   - Type
   - StudentId
